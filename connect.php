@@ -14,4 +14,6 @@ echo mysql_error() . "\n";
 exit;
 }
 echo 'Connected to database ' . DB_NAME . "\n";
+
+//JUST SOME TEXT I ADDED TO ENSURE THAT GITHUB IS WORKING PROPERLY LOLWUT
 ?>
